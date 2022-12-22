@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace AdventOfCode
 {
-    class December11 {
+    class December13 {
         static void Main(string[] args) {
             var input = Parse();
 
